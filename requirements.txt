@@ -1,0 +1,15 @@
+# Data Processing
+pandas
+numpy
+scipy
+
+# Machine Learning
+scikit-learn
+imblearn  # For SMOTE (imbalanced-learn)
+
+# Visualization
+matplotlib
+seaborn
+
+# Jupyter Notebook (if using .ipynb files)
+notebook
