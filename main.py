@@ -18,4 +18,5 @@ anomalies.to_csv("results/anomalies_detected.csv", index=False)
 # Plot flag distributions
 plot_tcp_flags_distribution(anomalies)
 
+# Print completion message
 print("Anomaly detection completed. Results saved in 'results/anomalies_detected.csv'.")
