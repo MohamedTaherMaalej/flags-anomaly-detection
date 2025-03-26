@@ -11,5 +11,5 @@ imblearn  # For SMOTE (imbalanced-learn)
 matplotlib
 seaborn
 
-# Jupyter Notebook (if using .ipynb files)
+# Jupyter Notebook
 notebook
